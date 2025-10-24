@@ -1,6 +1,6 @@
 # WebMining — Coleta e Análise de Dados Econômicos
 
-Projeto desenvolvido como parte da disciplina **Engenharia de Dados em Nuvem (MBA em Engenharia de Dados)**.  
+Projeto desenvolvido como parte da disciplina **Web mining & crawler scraping (MBA em Engenharia de Dados)**.  
 O objetivo é construir um pipeline completo de **coleta, tratamento, armazenamento e análise de dados econômicos e financeiros**, utilizando **Python, Jupyter Notebook e DuckDB**.
 
 ---
