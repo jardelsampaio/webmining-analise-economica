@@ -62,7 +62,7 @@ WebMining/
 
 ### 1️. Clone o repositório
 ```bash
-git clone https://github.com/seuusuario/webmining-analise-economica.git
+git clone https://github.com/jardelsampaio/webmining-analise-economica.git
 cd webmining-analise-economica
 ```
 
@@ -83,8 +83,8 @@ Abra o Jupyter e rode:
 ```
 01_planejamento_setup.ipynb
 02_coleta_series_api.ipynb
-03_coleta_noticias.ipynb
-04_analise_exploratoria.ipynb
+03_coleta_series_api.ipynb
+04_integracao_e_validacao.ipynb
 ```
 
 ---
@@ -110,8 +110,8 @@ Abra o Jupyter e rode:
 ## Autor
 
 **José Jardel Sampaio Siqueira**  
-💼 Engenheiro de Dados | BI & Integração de ERPs  
-🔗 [LinkedIn](https://www.linkedin.com/in/jardelsampaio) • [GitHub](https://github.com/seuusuario)
+💼 Engenheiro de Dados 
+🔗 [LinkedIn](https://www.linkedin.com/in/jardelsampaio) • [GitHub](https://github.com/jardelsampaio)
 
 ---
 
